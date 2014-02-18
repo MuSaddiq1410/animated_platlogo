@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/platlogo01" android:duration="100" />
+    <item android:drawable="@drawable/platlogo02" android:duration="100" />
+    <item android:drawable="@drawable/platlogo03" android:duration="100" />
+    <item android:drawable="@drawable/platlogo04" android:duration="100" />
+    <item android:drawable="@drawable/platlogo05" android:duration="100" />
+    <item android:drawable="@drawable/platlogo06" android:duration="100" />
+    <item android:drawable="@drawable/platlogo07" android:duration="100" />
+    <item android:drawable="@drawable/platlogo08" android:duration="100" />
+    <item android:drawable="@drawable/platlogo09" android:duration="100" />
+    <item android:drawable="@drawable/platlogo10" android:duration="100" />
+    <item android:drawable="@drawable/platlogo11" android:duration="100" />
+    <item android:drawable="@drawable/platlogo12" android:duration="100" />
+    <item android:drawable="@drawable/platlogo13" android:duration="100" />
+    <item android:drawable="@drawable/platlogo14" android:duration="100" />
+    <item android:drawable="@drawable/platlogo15" android:duration="100" />
+    <item android:drawable="@drawable/platlogo16" android:duration="100" />
+    <item android:drawable="@drawable/platlogo17" android:duration="100" />
+    <item android:drawable="@drawable/platlogo18" android:duration="100" />
+    <item android:drawable="@drawable/platlogo19" android:duration="100" />
+    <item android:drawable="@drawable/platlogo20" android:duration="100" />
+    <item android:drawable="@drawable/platlogo21" android:duration="100" />
+    <item android:drawable="@drawable/platlogo22" android:duration="100" />
+    <item android:drawable="@drawable/platlogo23" android:duration="100" />
+    <item android:drawable="@drawable/platlogo24" android:duration="100" />
+    <item android:drawable="@drawable/platlogo25" android:duration="100" />
+</animation-list>
